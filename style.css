@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hide{
+    display: none;
+}
+.car{
+    width: 5rem;
+    height:6rem;
+    background-color: rebeccapurple;
+    position: absolute;
+    left: 50px;
+    bottom: 120px;
+}
